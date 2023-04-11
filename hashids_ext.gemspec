@@ -6,9 +6,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Eiji Iwazawa"]
   spec.email         = ["eiji.iwazawa@hacomono.co.jp"]
 
-  spec.summary       = %q{Hashids C extension.}
-  spec.description   = %q{Hashids C extension.}
-  spec.homepage      = "https://github.com/hacomono/hashids_ext.rb"
+  spec.summary       = %q{Hashids implementation using hashids.c.}
+  spec.description   = %q{Hashids implementation using hashids.c.}
+  spec.homepage      = "https://github.com/iwazzer/hashids_ext.rb"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.7.5")
 
   spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
